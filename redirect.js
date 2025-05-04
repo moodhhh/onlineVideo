@@ -1,1 +1,1 @@
-const REDIRECT_URL = "https://sawutser.top/4/9286605";
+const REDIRECT_URL = "https://vagrejaba.com/bb3.VE0/PO3op_v/bRmuVwJrZaDf0w2kMaTigt3cMsDRMnx/LcT/Y_xAO/DmcpwfMNzsIG";
